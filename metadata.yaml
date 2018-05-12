@@ -1,0 +1,30 @@
+_repo: ABC-of-Electricity_45955
+_version: 0.1.0
+alternative_title: ABC of Electricity
+covers:
+- cover_type: archival
+  image_path: 45955-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meadowcroft, Wm. H. (William Henry)
+    aliases:
+    - Meadowcroft, William Henry
+    - Meadowcroft, W. H. (William Henry)
+    birthdate: 1853
+    gutenberg_agent_id: '43541'
+    url: http://www.gutenberg.org/2009/agents/43541
+description: ''
+gutenberg_issued: '2014-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45955'
+  lccn: '15011667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity'
+- !lcc 'QC'
+title: A-B-C of Electricity
+url: http://www.gutenberg.org/ebooks/45955
