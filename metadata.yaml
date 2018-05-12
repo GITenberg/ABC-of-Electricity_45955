@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '43541'
     url: http://www.gutenberg.org/2009/agents/43541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45955#ABC-of-Electricity
 gutenberg_issued: '2014-06-13'
 gutenberg_type: Text
 identifiers:
